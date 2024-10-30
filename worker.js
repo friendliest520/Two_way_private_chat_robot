@@ -5,7 +5,7 @@ const ADMIN_UID = ENV_ADMIN_UID // your user id, get it from https://t.me/userna
 
 const NOTIFY_INTERVAL = 3600 * 1000;
 const fraudDb = 'https://github.com/friendliest520/Two_way_private_chat_robot/blob/main/data/fraud.db';
-const notificationUrl = 'https://github.com/friendliest520/nfd/blob/main/data/notification.txt';
+const notificationUrl = 'https://github.com/friendliest520/Two_way_private_chat_robot/blob/main/data/notification.txt';
 const startMsgUrl = 'https://github.com/friendliest520/nfd/blob/main/data/startMessage.md';
 
 const enable_notification = true
